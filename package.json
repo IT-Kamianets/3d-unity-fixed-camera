@@ -1,0 +1,11 @@
+{
+  "name": "com.itkamianets.3d-unity-fixed-camera",
+  "version": "0.1.0",
+  "displayName": "Unity Fixed Camera",
+  "description": "Fixed cinematic camera shots for third-person games: shot volumes with priority and hysteresis, cut or blend, a tracked subject, and an inspection override for close-ups.",
+  "unity": "6000.6",
+  "license": "MIT",
+  "dependencies": {},
+  "keywords": ["camera", "fixed", "cinematic", "engine"],
+  "author": { "name": "IT Kamianets" }
+}
